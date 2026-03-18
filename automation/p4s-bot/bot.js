@@ -35,8 +35,12 @@ function lagosTimeHM() {
 
 // Daily log defaults and inputs
 const DAILY_LOG_CHOICES = [
-  'Laravel LMS development continues',
+  'Laravel LMS development updates continues',
   'Scrapers Libraries updated',
+  'SPBS Codebase Update',
+  'HR Dashboard Code updates for Additional features',
+  'Institutions Certificate Bot Development Continues',
+  'Booklet Extraction Bot Training Continues',
   'Automation update for TAT',
   'Model fine tuning',
   'General development update',
